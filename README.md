@@ -1,4 +1,4 @@
-# machine-learning-coursera
+# Machine Learning
 This repository contains all programming assignments from the Machine Learning course taught by Andrew Ng of Stanford through the platform Coursera. 
 
 In this course, the following topics were covered:
